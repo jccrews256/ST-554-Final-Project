@@ -24,5 +24,5 @@ for i in range(20):
     # Sending to CSV
     sample.to_csv(f"streamed_obs/batch_{i}.csv", index = False)
     
-    # Pausing for 10 seconds between batches
-    time.sleep(10)
+    # Pausing for 30 seconds between batches
+    time.sleep(30)
