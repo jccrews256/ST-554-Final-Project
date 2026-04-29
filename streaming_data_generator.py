@@ -1,4 +1,4 @@
-# This is a basic script that reads in a csv and, every 10 seconds,
+# This is a basic script that reads in a csv and, every 30 seconds,
 # randomly extract five observations from the dataset and 
 # adds the observations to a folder in a csv file.
 # This will allow us to simulate streaming data in an associated 
